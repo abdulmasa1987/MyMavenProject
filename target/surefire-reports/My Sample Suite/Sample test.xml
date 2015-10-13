@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="VAIO-VAIO" name="com.learntestng.SampleTest" tests="1" failures="0" timestamp="11 Oct 2015 04:33:34 GMT" time="0.038" errors="0">
+  <testcase name="Sampletest" time="0.019" classname="com.learntestng.SampleTest"/>
+</testsuite>

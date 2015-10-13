@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Sample Suite">
+
+
+<listeners>
+<listener class-name="com.learntestng.ExtentReporterNG" />
+</listeners>
+
+
+<test name="Sample test">
+    <classes>
+        <class name="com.learntestng.SampleTest" ></class>  
+    </classes>
+</test>
+
+
+
+
+
+
+</suite>
